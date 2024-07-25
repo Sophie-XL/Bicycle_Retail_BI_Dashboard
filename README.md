@@ -10,8 +10,6 @@ Power BI dashboard to track KPI and analyze trends and patterns for sales, produ
 
 ## Project Description:
 
-Shield Insurance is an insurance company who wants to understand the number of customers they have and the total revenue they are generating on a month by month basis. In the dashboard the following features are included:
-
 1. Sales Page: Major Sales and Finance KPIs
    - [x] Track Month over month change on key metrics
    - [x] KPIs: Net Sales, Gross Margin, Gross Margin &, Average Value per Transaction, Total customers and Total orders
